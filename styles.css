@@ -5,11 +5,11 @@ body{
 }
 button{
   background-color: #000000;
-  color: white;
+  color: black;
   padding: 15px 32px;
   text-align: center;
   font-size: 160px;
   margin: 4px 2px;
-  cursor: middle-finger;
+  cursor: pointer;
   
 }
